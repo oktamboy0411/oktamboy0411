@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Qulsoatov O'ktam</h1>
 <h3 align="center">I'm a react frontend developer from Uzbekistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oktamboy0411&label=Profile%20views&color=0e75b6&style=flat" alt="oktamboy0411" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oktamboy0411" alt="oktamboy0411" /></a> </p>
+<a href="#"><img src="./svgfile.svg"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
